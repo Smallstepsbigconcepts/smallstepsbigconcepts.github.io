@@ -42,6 +42,40 @@
    ]
   },
   {
+   "id": "cb_tiktok",
+   "title": "CinderBeats TikTok views (lifetime plays, all posts)",
+   "unit": "views",
+   "values": [
+    22022,
+    23067,
+    23924,
+    null
+   ],
+   "read": [
+    "2026-10-11",
+    "2026-10-18",
+    "2026-10-25",
+    null
+   ]
+  },
+  {
+   "id": "atr_tiktok",
+   "title": "AfterTheRiver TikTok views",
+   "unit": "views",
+   "values": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "read": [
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
    "id": "skool",
    "title": "Skool community members",
    "unit": "members",
@@ -92,5 +126,136 @@
     null
    ]
   }
- ]
+ ],
+ "products": {
+  "as_of": "2026-10-28",
+  "rule": "LIVE and PAID only, each confirmed by a dated check. Free items, drafts and unconfirmed listings are left out.",
+  "groups": [
+   {
+    "type": "T-shirts",
+    "items": [
+     {
+      "name": "Not Straight AJ (S001)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237103237173"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601114206"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+     },
+     {
+      "name": "Not Straight AQ (S002)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237103235525"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601118250"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+     },
+     {
+      "name": "Not Straight AK (S003)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237103227709"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601122346"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+     },
+     {
+      "name": "Straight Hand (S004)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237102739732"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601081911"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+     },
+     {
+      "name": "Bacon Strip Tease (S005)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237096257456"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601131638"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales; Etsy verified 10/27"
+     },
+     {
+      "name": "They Were Suited (S006)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237096254710"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales"
+     },
+     {
+      "name": "Chip-Eyes Royal Flush Monkey (S007)",
+      "links": [
+       [
+        "eBay",
+        "https://www.ebay.com/itm/237096248363"
+       ]
+      ],
+      "checked": "eBay 10/28 Sales"
+     }
+    ]
+   },
+   {
+    "type": "Ebooks",
+    "items": [
+     {
+      "name": "Price it Right, Move it Out (Kindle, $9.99)",
+      "links": [
+       [
+        "Amazon",
+        "https://www.amazon.com/dp/B0HLZXFV22"
+       ]
+      ],
+      "checked": "file record 10/18 (master-register; no Amazon fetch)"
+     },
+     {
+      "name": "Price it Right, Move it Out (paperback, $12.99)",
+      "links": [
+       [
+        "Amazon",
+        "https://www.amazon.com/dp/B0HM593CMB"
+       ]
+      ],
+      "checked": "file record 10/18 (master-register; no Amazon fetch)"
+     }
+    ]
+   },
+   {
+    "type": "Other paid digital products",
+    "items": [],
+    "note": "More in our Etsy shops; listed here once checked this week."
+   }
+  ]
+ }
 }
