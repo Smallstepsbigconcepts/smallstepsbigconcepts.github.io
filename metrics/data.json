@@ -138,7 +138,7 @@
       "name": "Not Straight AJ (S001)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237103237173"
        ],
        [
@@ -152,7 +152,7 @@
       "name": "Not Straight AQ (S002)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237103235525"
        ],
        [
@@ -166,7 +166,7 @@
       "name": "Not Straight AK (S003)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237103227709"
        ],
        [
@@ -180,7 +180,7 @@
       "name": "Straight Hand (S004)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237102739732"
        ],
        [
@@ -194,7 +194,7 @@
       "name": "Bacon Strip Tease (S005)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237096257456"
        ],
        [
@@ -208,7 +208,7 @@
       "name": "They Were Suited (S006)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237096254710"
        ]
       ],
@@ -218,13 +218,34 @@
       "name": "Chip-Eyes Royal Flush Monkey (S007)",
       "links": [
        [
-        "eBay",
+        "eBay: $24.99",
         "https://www.ebay.com/itm/237096248363"
        ]
       ],
       "checked": "eBay 10/28 Sales"
+     },
+     {
+      "name": "Social Anxiety",
+      "links": [
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601109125"
+       ]
+      ],
+      "checked": "Etsy Shop Manager 10/27-28 (Big Slick)"
+     },
+     {
+      "name": "Chess Knight Fork",
+      "links": [
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4601144640"
+       ]
+      ],
+      "checked": "Etsy Shop Manager 10/27-28 (Big Slick)"
      }
-    ]
+    ],
+    "note": "Prices shown are eBay prices. Etsy links show no price here until an Etsy price is checked."
    },
    {
     "type": "Ebooks",
