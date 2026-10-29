@@ -1,0 +1,96 @@
+{
+ "updated": "2026-10-28",
+ "weeks": [
+  "2026-10-11",
+  "2026-10-18",
+  "2026-10-25",
+  "2026-11-01"
+ ],
+ "metrics": [
+  {
+   "id": "cb_yt",
+   "title": "CinderBeats YouTube views (lifetime, all uploads)",
+   "unit": "views",
+   "values": [
+    43131,
+    44560,
+    48614,
+    null
+   ],
+   "read": [
+    "2026-10-11",
+    "2026-10-18",
+    "2026-10-25",
+    null
+   ]
+  },
+  {
+   "id": "atr_yt",
+   "title": "AfterTheRiver YouTube views (lifetime, 8 uploads)",
+   "unit": "views",
+   "values": [
+    null,
+    81,
+    83,
+    null
+   ],
+   "read": [
+    null,
+    "2026-10-18",
+    "2026-10-26",
+    null
+   ]
+  },
+  {
+   "id": "skool",
+   "title": "Skool community members",
+   "unit": "members",
+   "values": [
+    null,
+    2,
+    2,
+    2
+   ],
+   "read": [
+    null,
+    "2026-10-18",
+    "2026-10-25",
+    "2026-10-28"
+   ]
+  },
+  {
+   "id": "fb_followers",
+   "title": "SSBC Facebook Page followers",
+   "unit": "followers",
+   "values": [
+    null,
+    5,
+    null,
+    null
+   ],
+   "read": [
+    null,
+    "2026-10-16",
+    null,
+    null
+   ]
+  },
+  {
+   "id": "site_visits",
+   "title": "Site visitors (smallstepsbigconcepts.com, GoatCounter)",
+   "unit": "visitors",
+   "values": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "read": [
+    null,
+    null,
+    null,
+    null
+   ]
+  }
+ ]
+}

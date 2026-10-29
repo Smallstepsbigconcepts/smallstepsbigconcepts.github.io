@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Private metrics · SSBC</title><link rel="stylesheet" href="/assets/site.css"></head><body>
+<section class="tint"><div class="wrap"><h1>Private metrics</h1><p class="lead">Income numbers. Encrypted; they only appear with the password.</p>
+<form id="f"><input id="p" type="password" autocomplete="current-password" placeholder="Password"> <button class="btn sm">Unlock</button> <span id="e" class="small"></span></form>
+<div id="charts" class="areas" style="display:block"></div></div></section>
+<script src="/assets/metrics-charts.js"></script><script>
+function u(s){return Uint8Array.from(atob(s),c=>c.charCodeAt(0));}
+document.getElementById('f').onsubmit=async ev=>{ev.preventDefault();try{const E=await (await fetch('data.enc.json',{cache:'no-store'})).json();
+const k0=await crypto.subtle.importKey('raw',new TextEncoder().encode(document.getElementById('p').value),'PBKDF2',false,['deriveKey']);
+const k=await crypto.subtle.deriveKey({name:'PBKDF2',salt:u(E.salt),iterations:E.iter,hash:'SHA-256'},k0,{name:'AES-GCM',length:256},false,['decrypt']);
+const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:u(E.iv)},k,u(E.ct));document.getElementById('f').style.display='none';
+ssbcRender(JSON.parse(new TextDecoder().decode(pt)),document.getElementById('charts'));}catch(x){document.getElementById('e').textContent='Wrong password.';}};
+</script></body></html>
