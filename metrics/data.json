@@ -15,7 +15,7 @@
     43131,
     44560,
     48614,
-    55016
+    55729
    ],
    "read": [
     "2026-10-11",
@@ -26,7 +26,7 @@
   },
   {
    "id": "atr_yt",
-   "title": "AfterTheRiver YouTube views (lifetime, 8 uploads)",
+   "title": "AfterTheRiver YouTube views (lifetime, 10 uploads)",
    "unit": "views",
    "values": [
     null,
@@ -49,13 +49,13 @@
     22022,
     23067,
     23924,
-    null
+    28456
    ],
    "read": [
     "2026-10-11",
     "2026-10-18",
     "2026-10-25",
-    null
+    "2026-11-01"
    ]
   },
   {
@@ -89,7 +89,7 @@
     null,
     "2026-10-18",
     "2026-10-25",
-    "2026-10-28"
+    "2026-11-01"
    ]
   },
   {
@@ -128,7 +128,7 @@
   }
  ],
  "products": {
-  "as_of": "2026-10-28",
+  "as_of": "2026-11-01",
   "rule": "LIVE and PAID only, each confirmed by a dated check. Free items, drafts and unconfirmed listings are left out.",
   "groups": [
    {
@@ -146,7 +146,7 @@
         "https://www.etsy.com/listing/4601114206"
        ]
       ],
-      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "Not Straight AQ (S002)",
@@ -160,7 +160,7 @@
         "https://www.etsy.com/listing/4601118250"
        ]
       ],
-      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "Not Straight AK (S003)",
@@ -174,7 +174,7 @@
         "https://www.etsy.com/listing/4601122346"
        ]
       ],
-      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "Straight Hand (S004)",
@@ -188,7 +188,7 @@
         "https://www.etsy.com/listing/4601081911"
        ]
       ],
-      "checked": "eBay 10/28 Sales; Etsy Shop Manager 10/28"
+      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "Bacon Strip Tease (S005)",
@@ -202,7 +202,7 @@
         "https://www.etsy.com/listing/4601131638"
        ]
       ],
-      "checked": "eBay 10/28 Sales; Etsy verified 10/27"
+      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "They Were Suited (S006)",
@@ -212,7 +212,7 @@
         "https://www.ebay.com/itm/237096254710"
        ]
       ],
-      "checked": "eBay 10/28 Sales"
+      "checked": "eBay 10/28 Sales (live, $24.99)"
      },
      {
       "name": "Chip-Eyes Royal Flush Monkey (S007)",
@@ -222,7 +222,7 @@
         "https://www.ebay.com/itm/237096248363"
        ]
       ],
-      "checked": "eBay 10/28 Sales"
+      "checked": "eBay 10/28 Sales (live, $24.99)"
      },
      {
       "name": "Social Anxiety",
@@ -232,7 +232,7 @@
         "https://www.etsy.com/listing/4601109125"
        ]
       ],
-      "checked": "Etsy Shop Manager 10/27-28 (Big Slick)"
+      "checked": "Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      },
      {
       "name": "Chess Knight Fork",
@@ -242,7 +242,7 @@
         "https://www.etsy.com/listing/4601144640"
        ]
       ],
-      "checked": "Etsy Shop Manager 10/27-28 (Big Slick)"
+      "checked": "Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
      }
     ],
     "note": "Prices shown are eBay prices. Etsy links show no price here until an Etsy price is checked."
@@ -274,7 +274,28 @@
    },
    {
     "type": "Other paid digital products",
-    "items": [],
+    "items": [
+     {
+      "name": "Price It Right reseller bundle (PDF + spreadsheet)",
+      "links": [
+       [
+        "Etsy: $17.00",
+        "https://www.etsy.com/listing/4588862713"
+       ]
+      ],
+      "checked": "SmallStepsBgConcepts public shop page 11/1 ~7:05 PM (live, Add to cart)"
+     },
+     {
+      "name": "Out of Debt Payoff Planner (spreadsheet)",
+      "links": [
+       [
+        "Etsy: $9.99",
+        "https://www.etsy.com/listing/4600295777"
+       ]
+      ],
+      "checked": "SmallStepsBgConcepts public shop page 11/1 ~7:05 PM (live, Add to cart)"
+     }
+    ],
     "note": "More in our Etsy shops; listed here once checked this week."
    }
   ]
