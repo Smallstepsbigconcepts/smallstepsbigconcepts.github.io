@@ -1,10 +1,11 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-06",
  "weeks": [
   "2026-10-11",
   "2026-10-18",
   "2026-10-25",
-  "2026-11-01"
+  "2026-11-01",
+  "2026-11-06"
  ],
  "metrics": [
   {
@@ -15,30 +16,34 @@
     43131,
     44560,
     48614,
-    55729
+    55729,
+    58936
    ],
    "read": [
     "2026-10-11",
     "2026-10-18",
     "2026-10-25",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-06"
    ]
   },
   {
    "id": "atr_yt",
-   "title": "AfterTheRiver YouTube views (lifetime, 10 uploads)",
+   "title": "AfterTheRiver YouTube views (lifetime, 13 uploads)",
    "unit": "views",
    "values": [
     null,
     81,
     83,
-    119
+    119,
+    169
    ],
    "read": [
     null,
     "2026-10-18",
     "2026-10-26",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-06"
    ]
   },
   {
@@ -49,13 +54,15 @@
     22022,
     23067,
     23924,
-    28456
+    28456,
+    null
    ],
    "read": [
     "2026-10-11",
     "2026-10-18",
     "2026-10-25",
-    "2026-11-01"
+    "2026-11-01",
+    null
    ]
   },
   {
@@ -66,9 +73,11 @@
     null,
     null,
     null,
+    null,
     null
    ],
    "read": [
+    null,
     null,
     null,
     null,
@@ -83,13 +92,15 @@
     null,
     2,
     2,
+    2,
     2
    ],
    "read": [
     null,
     "2026-10-18",
     "2026-10-25",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-05"
    ]
   },
   {
@@ -100,11 +111,13 @@
     null,
     5,
     null,
+    null,
     null
    ],
    "read": [
     null,
     "2026-10-16",
+    null,
     null,
     null
    ]
@@ -117,9 +130,11 @@
     null,
     null,
     null,
+    null,
     null
    ],
    "read": [
+    null,
     null,
     null,
     null,
@@ -128,7 +143,7 @@
   }
  ],
  "products": {
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-06",
   "rule": "LIVE and PAID only, each confirmed by a dated check. Free items, drafts and unconfirmed listings are left out.",
   "groups": [
    {
@@ -138,111 +153,91 @@
       "name": "Not Straight AJ (S001)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237103237173"
-       ],
-       [
-        "Etsy",
-        "https://www.etsy.com/listing/4601114206"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103237173; Etsy https://www.etsy.com/listing/4601114206 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Not Straight AQ (S002)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237103235525"
-       ],
-       [
-        "Etsy",
-        "https://www.etsy.com/listing/4601118250"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103235525; Etsy https://www.etsy.com/listing/4601118250 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Not Straight AK (S003)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237103227709"
-       ],
-       [
-        "Etsy",
-        "https://www.etsy.com/listing/4601122346"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103227709; Etsy https://www.etsy.com/listing/4601122346 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Straight Hand (S004)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237102739732"
-       ],
-       [
-        "Etsy",
-        "https://www.etsy.com/listing/4601081911"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237102739732; Etsy https://www.etsy.com/listing/4601081911 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Bacon Strip Tease (S005)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237096257456"
-       ],
-       [
-        "Etsy",
-        "https://www.etsy.com/listing/4601131638"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99); Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096257456; Etsy https://www.etsy.com/listing/4601131638 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "They Were Suited (S006)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237096254710"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096254710 (Sales 10/28) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Chip-Eyes Royal Flush Monkey (S007)",
       "links": [
        [
-        "eBay: $24.99",
-        "https://www.ebay.com/itm/237096248363"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "eBay 10/28 Sales (live, $24.99)"
+      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096248363 (Sales 10/28) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Social Anxiety",
       "links": [
        [
-        "Etsy",
-        "https://www.etsy.com/listing/4601109125"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "Etsy https://www.etsy.com/listing/4601109125 (Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      },
      {
       "name": "Chess Knight Fork",
       "links": [
        [
-        "Etsy",
-        "https://www.etsy.com/listing/4601144640"
+        "On our site",
+        "/shirts/"
        ]
       ],
-      "checked": "Etsy Shop Manager Stats 11/1 (listing shown, 0 orders)"
+      "checked": "Etsy https://www.etsy.com/listing/4601144640 (Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
      }
     ],
     "note": "Prices shown are eBay prices. Etsy links show no price here until an Etsy price is checked."
@@ -254,21 +249,21 @@
       "name": "Price it Right, Move it Out (Kindle, $9.99)",
       "links": [
        [
-        "Amazon",
-        "https://www.amazon.com/dp/B0HLZXFV22"
+        "On our site",
+        "/pricing-playbook/"
        ]
       ],
-      "checked": "file record 10/18 (master-register; no Amazon fetch)"
+      "checked": "marketplace https://www.amazon.com/dp/B0HLZXFV22; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06."
      },
      {
       "name": "Price it Right, Move it Out (paperback, $12.99)",
       "links": [
        [
-        "Amazon",
-        "https://www.amazon.com/dp/B0HM593CMB"
+        "On our site",
+        "/pricing-playbook/"
        ]
       ],
-      "checked": "file record 10/18 (master-register; no Amazon fetch)"
+      "checked": "marketplace https://www.amazon.com/dp/B0HM593CMB; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06."
      }
     ]
    },
@@ -279,24 +274,64 @@
       "name": "Price It Right reseller bundle (PDF + spreadsheet)",
       "links": [
        [
-        "Etsy: $17.00",
-        "https://www.etsy.com/listing/4588862713"
+        "On our site",
+        "/pricing-playbook/"
        ]
       ],
-      "checked": "SmallStepsBgConcepts public shop page 11/1 ~7:05 PM (live, Add to cart)"
+      "checked": "Etsy https://www.etsy.com/listing/4588862713 $17 (public shop 11/1). Panel link prefers /pricing-playbook/ as of 2026-11-06."
      },
      {
       "name": "Out of Debt Payoff Planner (spreadsheet)",
       "links": [
        [
-        "Etsy: $9.99",
-        "https://www.etsy.com/listing/4600295777"
+        "On our site",
+        "/debt-payoff-planner/"
        ]
       ],
-      "checked": "SmallStepsBgConcepts public shop page 11/1 ~7:05 PM (live, Add to cart)"
+      "checked": "Etsy https://www.etsy.com/listing/4600295777 $9.99 (public shop 11/1). Panel link prefers /debt-payoff-planner/ as of 2026-11-06."
+     },
+     {
+      "name": "What We Actually Need Covered (P-INS)",
+      "links": [
+       [
+        "On our site",
+        "/insurance-review/"
+       ]
+      ],
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610200526 $7 (master-register). Landing /insurance-review/."
+     },
+     {
+      "name": "Back Taxes: First 5 Steps (P-TAX)",
+      "links": [
+       [
+        "On our site",
+        "/back-taxes-first-steps/"
+       ]
+      ],
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610180075 $7 (master-register). Landing /back-taxes-first-steps/."
+     },
+     {
+      "name": "Assistance Application Tracker (P-AST)",
+      "links": [
+       [
+        "On our site",
+        "/assistance-tracker/"
+       ]
+      ],
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610201330 $7 (master-register). Landing /assistance-tracker/."
+     },
+     {
+      "name": "Could You Pay Your Deductible Tomorrow?",
+      "links": [
+       [
+        "On our site",
+        "/deductible-guide/"
+       ]
+      ],
+      "checked": "Etsy LIVE listing 4610281367 $7 (standing order 2026-11-06). Landing /deductible-guide/."
      }
     ],
-    "note": "More in our Etsy shops; listed here once checked this week."
+    "note": "More in our Etsy shops; listed here once checked. Panel links prefer our site landings (David rule); marketplace URLs in checked."
    }
   ]
  }
