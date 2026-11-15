@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Join the free community · Small Steps Big Concepts</title>
+<meta name="description" content="Continue to the free Small Steps Big Concepts community.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="/assets/ssbc-logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<noscript><meta http-equiv="refresh" content="0;url=https://www.skool.com/little-level-ups-5574/about"></noscript>
+<script>window.goatcounter={no_onload:true,path:function(){return "/join"}};</script>
+</head><body>
+<nav><div class="wrap"><a class="brand" href="/"><img src="/assets/ssbc-logo.png" alt="">Small Steps Big Concepts</a>
+<a class="hide" href="/my-story/">My story</a><a class="hide" href="/#areas">Projects</a><a class="hide" href="/metrics/">Metrics</a><a class="hide" href="/free/">Free resources</a><a class="btn sm" href="https://www.skool.com/little-level-ups-5574/about" id="nav-join">Join free</a></div></nav>
+<section class="cta" style="padding-top:90px"><div class="wrap">
+<div class="eye">Free community</div>
+<h2>Hang tight — taking you to the free Small Steps community.</h2>
+<a class="btn" id="join-link" href="https://www.skool.com/little-level-ups-5574/about">Continue to the free Small Steps community</a>
+</div></section>
+<footer><div class="wrap"><span>© 2026 Small Steps Big Concepts · David Manning</span><span><a href="https://www.skool.com/little-level-ups-5574/about">Join the free community</a><a href="https://www.facebook.com/SmallStepsBigConcepts">Facebook</a><a href="https://www.tiktok.com/@smallstepsbigconcepts">TikTok</a></span></div></footer>
+<script data-goatcounter="https://smallstepsbigconcepts.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+(function(){
+  var SK_BASE = "https://www.skool.com/little-level-ups-5574/about";
+  function dest(){
+    var ref = new URLSearchParams(window.location.search).get("ref");
+    if (!ref) return SK_BASE;
+    return SK_BASE + (SK_BASE.indexOf("?") >= 0 ? "&" : "?") + "ref=" + encodeURIComponent(ref);
+  }
+  var url = dest();
+  var link = document.getElementById("join-link");
+  if (link) link.href = url;
+  var nav = document.getElementById("nav-join");
+  if (nav) nav.href = url;
+  var gone = false;
+  function go(){
+    if (gone) return;
+    gone = true;
+    window.location.replace(url);
+  }
+  setTimeout(go, 800);
+  var started = false;
+  function fireCount(){
+    if (started) return;
+    if (!(window.goatcounter && typeof window.goatcounter.url === "function")) {
+      setTimeout(fireCount, 50);
+      return;
+    }
+    var countUrl = window.goatcounter.url();
+    if (!countUrl) {
+      if (typeof window.goatcounter.count === "function") window.goatcounter.count();
+      started = true;
+      return;
+    }
+    started = true;
+    var img = new Image();
+    img.onload = img.onerror = go;
+    img.src = countUrl;
+  }
+  fireCount();
+})();
+</script>
+</body></html>
