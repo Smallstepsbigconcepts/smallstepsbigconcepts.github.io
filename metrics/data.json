@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-15",
  "weeks": [
   "2026-10-11",
   "2026-10-18",
   "2026-10-25",
   "2026-11-01",
-  "2026-11-08"
+  "2026-11-08",
+  "2026-11-15"
  ],
  "metrics": [
   {
@@ -17,33 +18,37 @@
     44560,
     48614,
     55729,
-    59172
+    59172,
+    62740
    ],
    "read": [
     "2026-10-11",
     "2026-10-18",
     "2026-10-25",
     "2026-11-01",
-    "2026-11-08"
+    "2026-11-08",
+    "2026-11-15"
    ]
   },
   {
    "id": "atr_yt",
-   "title": "AfterTheRiver YouTube views (lifetime, 15 uploads)",
+   "title": "AfterTheRiver YouTube views (lifetime, 22 uploads)",
    "unit": "views",
    "values": [
     null,
     81,
     83,
     119,
-    203
+    203,
+    457
    ],
    "read": [
     null,
     "2026-10-18",
     "2026-10-26",
     "2026-11-01",
-    "2026-11-08"
+    "2026-11-08",
+    "2026-11-15"
    ]
   },
   {
@@ -55,14 +60,16 @@
     23067,
     23924,
     28456,
-    null
+    null,
+    32591
    ],
    "read": [
     "2026-10-11",
     "2026-10-18",
     "2026-10-25",
     "2026-11-01",
-    null
+    null,
+    "2026-11-15"
    ]
   },
   {
@@ -74,9 +81,11 @@
     null,
     null,
     null,
+    null,
     null
    ],
    "read": [
+    null,
     null,
     null,
     null,
@@ -93,6 +102,7 @@
     2,
     2,
     2,
+    2,
     2
    ],
    "read": [
@@ -100,7 +110,8 @@
     "2026-10-18",
     "2026-10-25",
     "2026-11-01",
-    "2026-11-08"
+    "2026-11-08",
+    "2026-11-15"
    ]
   },
   {
@@ -112,11 +123,13 @@
     5,
     null,
     null,
+    null,
     null
    ],
    "read": [
     null,
     "2026-10-16",
+    null,
     null,
     null,
     null
@@ -131,19 +144,21 @@
     null,
     null,
     null,
-    26
+    26,
+    14
    ],
    "read": [
     null,
     null,
     null,
     null,
-    "2026-11-08"
+    "2026-11-08",
+    "2026-11-15"
    ]
   }
  ],
  "products": {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-15",
   "rule": "LIVE and PAID only, each confirmed by a dated check. Free items, drafts and unconfirmed listings are left out.",
   "groups": [
    {
@@ -253,7 +268,7 @@
         "/pricing-playbook/"
        ]
       ],
-      "checked": "marketplace https://www.amazon.com/dp/B0HLZXFV22; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06."
+      "checked": "marketplace https://www.amazon.com/dp/B0HLZXFV22; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06. Kindle still live 2026-11-15 (GM); units unverified."
      },
      {
       "name": "Price it Right, Move it Out (paperback, $12.99)",
@@ -263,7 +278,7 @@
         "/pricing-playbook/"
        ]
       ],
-      "checked": "marketplace https://www.amazon.com/dp/B0HM593CMB; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06."
+      "checked": "marketplace https://www.amazon.com/dp/B0HM593CMB; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06. Paperback still live 2026-11-15 (GM); units unverified."
      }
     ]
    },
@@ -278,7 +293,7 @@
         "/pricing-playbook/"
        ]
       ],
-      "checked": "Etsy https://www.etsy.com/listing/4588862713 $17 (public shop 11/1). Panel link prefers /pricing-playbook/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy https://www.etsy.com/listing/4588862713 $17 (public shop 11/1). Panel link prefers /pricing-playbook/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
       "name": "Out of Debt Payoff Planner (spreadsheet)",
@@ -288,7 +303,7 @@
         "/debt-payoff-planner/"
        ]
       ],
-      "checked": "Etsy https://www.etsy.com/listing/4600295777 $9.99 (public shop 11/1). Panel link prefers /debt-payoff-planner/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy https://www.etsy.com/listing/4600295777 $9.99 (public shop 11/1). Panel link prefers /debt-payoff-planner/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
       "name": "What We Actually Need Covered (P-INS)",
@@ -298,7 +313,7 @@
         "/insurance-review/"
        ]
       ],
-      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610200526 $7 (master-register). Landing /insurance-review/ \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610200526 $7 (master-register). Landing /insurance-review/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
       "name": "Back Taxes: First 5 Steps (P-TAX)",
@@ -308,7 +323,7 @@
         "/back-taxes-first-steps/"
        ]
       ],
-      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610180075 $7 (master-register). Landing /back-taxes-first-steps/ \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610180075 $7 (master-register). Landing /back-taxes-first-steps/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
       "name": "Assistance Application Tracker (P-AST)",
@@ -318,7 +333,7 @@
         "/assistance-tracker/"
        ]
       ],
-      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610201330 $7 (master-register). Landing /assistance-tracker/ \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610201330 $7 (master-register). Landing /assistance-tracker/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
       "name": "Could You Pay Your Deductible Tomorrow?",
@@ -328,7 +343,7 @@
         "/deductible-guide/"
        ]
       ],
-      "checked": "Etsy LIVE listing 4610281367 $7 (standing order 2026-11-06). Landing /deductible-guide/ \u00b7 public shop reconfirmed 2026-11-08 (0 orders / 0 reviews)."
+      "checked": "Etsy LIVE listing 4610281367 $7 (standing order 2026-11-06). Landing /deductible-guide/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      }
     ],
     "note": "More in our Etsy shops; listed here once checked. Panel links prefer our site landings (David rule); marketplace URLs in checked."
