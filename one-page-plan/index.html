@@ -1,0 +1,35 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The One-Page Plan · Small Steps Big Concepts</title>
+<meta name="description" content="Hang tight — taking you to the join page for the free Small Steps community, where the One-Page Plan lives.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://smallstepsbigconcepts.com/join/?ref=one-page-plan">
+<link rel="icon" href="/assets/ssbc-logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+<noscript><meta http-equiv="refresh" content="0;url=/join/?ref=one-page-plan"></noscript>
+<meta http-equiv="refresh" content="3;url=/join/?ref=one-page-plan">
+</head><body>
+<nav><div class="wrap"><a class="brand" href="/"><img src="/assets/ssbc-logo.png" alt="">Small Steps Big Concepts</a>
+<a class="hide" href="/my-story/">My story</a><a class="hide" href="/#areas">Projects</a><a class="hide" href="/metrics/">Metrics</a><a class="hide" href="/free/">Free resources</a><a class="btn sm" href="/join/?ref=site" id="nav-join">Join free</a></div></nav>
+<section class="cta" style="padding-top:90px"><div class="wrap">
+<div class="eye">Continue</div>
+<h2>The One-Page Plan is free in our community.</h2>
+<p>Hang tight — taking you to the join page for the free Small Steps community, where the One-Page Plan lives.</p>
+<a class="btn" id="continue-link" href="/join/?ref=one-page-plan">Continue to the One-Page Plan</a>
+</div></section>
+<footer><div class="wrap"><span>© 2026 Small Steps Big Concepts · David Manning</span><span><a href="/join/?ref=site">Join the free community</a><a href="https://www.facebook.com/SmallStepsBigConcepts">Facebook</a></span></div></footer>
+<script>
+(function(){
+  function dest(){
+    var params = new URLSearchParams(window.location.search);
+    if (!params.get("ref")) params.set("ref", "one-page-plan");
+    var q = params.toString();
+    return "/join/" + (q ? "?" + q : "");
+  }
+  var url = dest();
+  var link = document.getElementById("continue-link");
+  if (link) link.href = url;
+  window.location.replace(url);
+})();
+</script>
+</body></html>
