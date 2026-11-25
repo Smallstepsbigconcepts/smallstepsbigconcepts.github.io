@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-25",
  "weeks": [
   "2026-10-11",
   "2026-10-18",
@@ -173,101 +173,39 @@
   }
  ],
  "products": {
-  "as_of": "2026-11-15",
+  "as_of": "2026-11-25",
   "rule": "LIVE and PAID only, each confirmed by a dated check. Free items, drafts and unconfirmed listings are left out.",
   "groups": [
    {
     "type": "T-shirts",
     "items": [
      {
-      "name": "Not Straight AJ (S001)",
+      "name": "AfterTheRiverPoker Etsy shop: 55 shirt listings, from $19.99 (S\u2013XL, up to $32.99 in 5X)",
       "links": [
        [
         "On our site",
         "/shirts/"
+       ],
+       [
+        "Etsy shop",
+        "https://www.etsy.com/shop/AfterTheRiverPoker"
        ]
       ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103237173; Etsy https://www.etsy.com/listing/4601114206 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
+      "checked": "Etsy Shop Manager, 55 active listings, read Nov 21, 2026 (irresistible-offer/expertise/etsy-stats-2026-11-21.md); Etsy blocks curl from the box so not re-read Nov 25"
      },
      {
-      "name": "Not Straight AQ (S002)",
+      "name": "7 shirts on eBay, $24.99 with free shipping",
       "links": [
        [
         "On our site",
         "/shirts/"
-       ]
-      ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103235525; Etsy https://www.etsy.com/listing/4601118250 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Not Straight AK (S003)",
-      "links": [
+       ],
        [
-        "On our site",
-        "/shirts/"
+        "eBay store",
+        "https://www.ebay.com/usr/amusingtreasures"
        ]
       ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237103227709; Etsy https://www.etsy.com/listing/4601122346 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Straight Hand (S004)",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237102739732; Etsy https://www.etsy.com/listing/4601081911 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Bacon Strip Tease (S005)",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096257456; Etsy https://www.etsy.com/listing/4601131638 (prior Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "They Were Suited (S006)",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096254710 (Sales 10/28) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Chip-Eyes Royal Flush Monkey (S007)",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "eBay live $24.99 https://www.ebay.com/itm/237096248363 (Sales 10/28) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Social Anxiety",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "Etsy https://www.etsy.com/listing/4601109125 (Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
-     },
-     {
-      "name": "Chess Knight Fork",
-      "links": [
-       [
-        "On our site",
-        "/shirts/"
-       ]
-      ],
-      "checked": "Etsy https://www.etsy.com/listing/4601144640 (Shop Manager 11/1) \u00b7 products panel refreshed 2026-11-06 (site landing preferred)"
+      "checked": "Sales stale-listing sweep Nov 16, 2026 (all 7 at $24.99, free shipping)"
      }
     ],
     "note": "Prices shown are eBay prices. Etsy links show no price here until an Etsy price is checked."
@@ -281,9 +219,13 @@
        [
         "On our site",
         "/pricing-playbook/"
+       ],
+       [
+        "Amazon",
+        "https://www.amazon.com/dp/B0HLZXFV22"
        ]
       ],
-      "checked": "marketplace https://www.amazon.com/dp/B0HLZXFV22; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06. Kindle still live 2026-11-15 (GM); units unverified."
+      "checked": "KDP record Oct 18, 2026; Amazon bot-walls curl so price not re-read Nov 25"
      },
      {
       "name": "Price it Right, Move it Out (paperback, $12.99)",
@@ -291,9 +233,13 @@
        [
         "On our site",
         "/pricing-playbook/"
+       ],
+       [
+        "Amazon",
+        "https://www.amazon.com/dp/B0HM593CMB"
        ]
       ],
-      "checked": "marketplace https://www.amazon.com/dp/B0HM593CMB; KDP file record 10/18 (master-register). Panel link prefers /pricing-playbook/ as of 2026-11-06. Paperback still live 2026-11-15 (GM); units unverified."
+      "checked": "KDP record Oct 18, 2026; not re-read Nov 25"
      }
     ]
    },
@@ -301,61 +247,99 @@
     "type": "Other paid digital products",
     "items": [
      {
-      "name": "Price It Right reseller bundle (PDF + spreadsheet)",
+      "name": "Price It, List It, Ship It, Let It Go: The Reseller's Filled-In Playbook (Gumroad, $19)",
       "links": [
        [
         "On our site",
         "/pricing-playbook/"
+       ],
+       [
+        "Gumroad",
+        "https://amusingtreasures.gumroad.com/l/vpyqn"
+       ]
+      ],
+      "checked": "Gumroad dashboard Nov 25, 2026 (Published, $19); public page HTTP 200 Nov 25"
+     },
+     {
+      "name": "Price It Right reseller bundle (PDF + spreadsheet) ($17)",
+      "links": [
+       [
+        "On our site",
+        "/pricing-playbook/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4588862713"
        ]
       ],
       "checked": "Etsy https://www.etsy.com/listing/4588862713 $17 (public shop 11/1). Panel link prefers /pricing-playbook/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
-      "name": "Out of Debt Payoff Planner (spreadsheet)",
+      "name": "Out of Debt Payoff Planner (spreadsheet) ($9.99)",
       "links": [
        [
         "On our site",
         "/debt-payoff-planner/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4600295777"
        ]
       ],
       "checked": "Etsy https://www.etsy.com/listing/4600295777 $9.99 (public shop 11/1). Panel link prefers /debt-payoff-planner/ as of 2026-11-06 \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
-      "name": "What We Actually Need Covered (P-INS)",
+      "name": "What We Actually Need Covered (P-INS) ($7)",
       "links": [
        [
         "On our site",
         "/insurance-review/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4610200526"
        ]
       ],
       "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610200526 $7 (master-register). Landing /insurance-review/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
-      "name": "Back Taxes: First 5 Steps (P-TAX)",
+      "name": "Back Taxes: First 5 Steps (P-TAX) ($7)",
       "links": [
        [
         "On our site",
         "/back-taxes-first-steps/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4610180075"
        ]
       ],
       "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610180075 $7 (master-register). Landing /back-taxes-first-steps/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
-      "name": "Assistance Application Tracker (P-AST)",
+      "name": "Assistance Application Tracker (P-AST) ($7)",
       "links": [
        [
         "On our site",
         "/assistance-tracker/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4610201330"
        ]
       ],
       "checked": "Etsy LIVE 11/4 SmallStepsBgConcepts listing 4610201330 $7 (master-register). Landing /assistance-tracker/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
      },
      {
-      "name": "Could You Pay Your Deductible Tomorrow?",
+      "name": "Could You Pay Your Deductible Tomorrow? ($7)",
       "links": [
        [
         "On our site",
         "/deductible-guide/"
+       ],
+       [
+        "Etsy",
+        "https://www.etsy.com/listing/4610281367"
        ]
       ],
       "checked": "Etsy LIVE listing 4610281367 $7 (standing order 2026-11-06). Landing /deductible-guide/ \u00b7 public shop reconfirmed 2026-11-15 (0 orders / 0 reviews)."
